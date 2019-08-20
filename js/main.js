@@ -140,7 +140,7 @@
 
         $(function() {
             element.typed({
-                strings: ["I'm Designer.", "I am Creative."],
+                strings: ["I Create Software.", "I Design Website.", "I'm Creative."],
                 typeSpeed: 100,
                 loop: true,
             });
